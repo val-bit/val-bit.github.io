@@ -1,11 +1,7 @@
 <h1 align="justify"> Valéria Melo</h1>
 <h2 align="justify"> Desenvolvedora Web - Junior / Front-end e Back-end :computer: :computer:</h2>
 
-----
-> Deploy da Aplicação 💨
-Acesse já: <p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
 
-----
 
 
 <h3 align="justify"> 🏠 ABC/SP</h3
@@ -17,6 +13,11 @@ Acesse já: <p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Page
 <p align="justify"> Produzi uma página de apresentação pessoal com um template Bootstrap. A página está disponivel na 
   <u> Github Pages </u>. </p>
 
+----
+> Deploy da Aplicação 💨
+Acesse já: <p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
+
+----
  
 ----
 
