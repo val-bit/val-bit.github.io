@@ -7,9 +7,30 @@
  
  <p align="justify"> :pushpin: Tecnologias: JAVA e JS. </p>
  
-
-
 <p align="justify"> Produzi uma página de apresentação pessoal com um template Bootstrap. A página está disponivel na 
-  <u> - Github Pages </u>. </p>
+  <u> Github Pages </u>. </p>
 
 Link: https://val-bit.github.io/# :white_check_mark:
+
+----
+
+## :package: Como desenvolver o Projeto:
+
+
+```bash
+  # Para iniciar o Projeto
+  
+  > https://www.youtube.com/watch?v=MAjuVJ2XjaE
+  
+  # Template Resume do StartBootstrap:
+  ❯ https://startbootstrap.com/themes/resume/
+
+  # Para personalizar sua página pessoal:
+  ❯ https://www.youtube.com/watch?v=ZSBB-34xXsY
+```
+<p align="justify"> O resultado vai ser uma página pessoal criada no GitHub. Uma excelente oportunidade para você fazer um currículo que já mostra um pouco de suas habilidades como desenvolvedor. É interessante, portanto, personalizar sua página e explorar ao máximo as ferramentas que você souber usar.</p>
+
+<h4 align="center">
+  Feito com ❤️ por Val-bit 👋️ <a href="valleriademelo@gmail.com">Entre em contato!</a>
+</h4>
+
