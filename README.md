@@ -5,7 +5,7 @@
 
 <h3 align="justify"> 🏠 ABC/SP</h3
 
- <p align="justify"> Meu nome é Valéria Melo, sou Desenvolvedora Web, apaixonado por tecnologia. </p>
+ <p align="justify"> Meu nome é Valéria Melo, sou Desenvolvedora Web, apaixonada por tecnologia. </p>
  
  <p align="justify"> :pushpin: Tecnologias: JAVA e JS. </p>
  
@@ -19,8 +19,7 @@
 
 
 ```bash
-  # Para iniciar o Projeto
-  
+  # Para iniciar o Projeto:
   > https://www.youtube.com/watch?v=MAjuVJ2XjaE
   
   # Template Resume do StartBootstrap:
