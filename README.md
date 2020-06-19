@@ -3,9 +3,9 @@
 
 <h3 align="justify"> 🏠 ABC/SP</h3
 
- <p align="justify"> Meu nome é Valéria Melo, sou Desenvolvedora Web, apaixonado por tecnologia. E com grande interesse em Java e Javascript. </p>
+ <p align="justify"> Meu nome é Valéria Melo, sou Desenvolvedora Web, apaixonado por tecnologia. </p>
  
- <p align="justify"> :pushpin: Buscando conhecimento para a construção de um Portifólio sólido em JAVA e JS. </p>
+ <p align="justify"> :pushpin: Tecnologias: JAVA e JS. </p>
  
 
 
