@@ -10,7 +10,7 @@
 <p align="justify"> Produzi uma página de apresentação pessoal com um template Bootstrap. A página está disponivel na 
   <u> Github Pages </u>. </p>
 
-Link: https://val-bit.github.io/# :white_check_mark:
+ <a href="https://val-bit.github.io/#"> Curriculo Online - Valéria Melo </a>  :white_check_mark:
 
 ----
 
