@@ -28,10 +28,11 @@
 
   # Para personalizar sua página pessoal:
   ❯ https://www.youtube.com/watch?v=ZSBB-34xXsY
+  
+  # Página pessoal finalizada:
+  ❯ https://val-bit.github.io/#
 ```
 <p align="justify"> O resultado vai ser uma página pessoal criada no GitHub. Uma excelente oportunidade para você fazer um currículo que já mostra um pouco de suas habilidades como desenvolvedor. É interessante, portanto, personalizar sua página e explorar ao máximo as ferramentas que você souber usar.</p>
 
-<h4 align="center">
-  Feito com ❤️ por Val-bit 👋️ <a href="valleriademelo@gmail.com">Entre em contato!</a>
-</h4>
+
 
