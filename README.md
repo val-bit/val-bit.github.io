@@ -1,3 +1,7 @@
+
+![GITPAGES](https://user-images.githubusercontent.com/59574875/85124684-b1be3c00-b200-11ea-8902-9bf3433eaff9.jpeg)
+
+
 <h1 align="justify"> Valéria Melo</h1>
 <h2 align="justify"> Desenvolvedora Web - Junior / Front-end e Back-end :computer: :computer:</h2>
 
