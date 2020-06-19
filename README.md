@@ -15,7 +15,7 @@
 
 ----
 > <p> Deploy da Aplicação 💨 </>
-<p> <b> Acesse já: </b>  <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
+> <p> <b> Acesse já: </b>  <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
 
 ----
 
