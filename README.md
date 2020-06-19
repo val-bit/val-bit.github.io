@@ -1,5 +1,5 @@
 <h1 align="justify"> Valéria Melo</h1>
-<h2 align="justify"> Desenvolvedor Web - Junior / Front-end e Back-end :computer: :computer:</h2>
+<h2 align="justify"> Desenvolvedora Web - Junior / Front-end e Back-end :computer: :computer:</h2>
 
 <h3 align="justify"> 🏠 ABC/SP</h3
 
