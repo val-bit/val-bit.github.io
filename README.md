@@ -1,6 +1,11 @@
 <h1 align="justify"> Valéria Melo</h1>
 <h2 align="justify"> Desenvolvedora Web - Junior / Front-end e Back-end :computer: :computer:</h2>
-<p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
+
+----
+> Deploy da Aplicação 💨
+Acesse já: <p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
+
+----
 
 
 <h3 align="justify"> 🏠 ABC/SP</h3
@@ -31,11 +36,7 @@
   # Página pessoal finalizada:
   ❯ https://val-bit.github.io/#
 ```
-----
-Deploy da Aplicação 💨
-Acesse já: <p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
 
-----
 
 <p align="justify"> O resultado vai ser uma página pessoal criada no GitHub. Uma excelente oportunidade para você fazer um currículo que já mostra um pouco de suas habilidades como desenvolvedor. É interessante, portanto, personalizar sua página e explorar ao máximo as ferramentas que você souber usar.</p>
 
