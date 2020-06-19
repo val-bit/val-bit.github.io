@@ -20,7 +20,7 @@
 
 ```bash
   # Para iniciar o Projeto:
-  > https://www.youtube.com/watch?v=MAjuVJ2XjaE
+  ❯ https://www.youtube.com/watch?v=MAjuVJ2XjaE
   
   # Template Resume do StartBootstrap:
   ❯ https://startbootstrap.com/themes/resume/
