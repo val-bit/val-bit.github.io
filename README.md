@@ -14,8 +14,8 @@
   <u> Github Pages </u>. </p>
 
 ----
-> Deploy da Aplicação 💨
-Acesse já: <p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
+> <p> Deploy da Aplicação 💨 </>
+<p> Acesse já: <p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
 
 ----
 
