@@ -18,8 +18,7 @@
 Acesse já: <p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
 
 ----
- 
-----
+
 
 ## :package: Como desenvolver o Projeto:
 
