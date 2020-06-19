@@ -2,8 +2,8 @@
 ![GITPAGES](https://user-images.githubusercontent.com/59574875/85124684-b1be3c00-b200-11ea-8902-9bf3433eaff9.jpeg)
 
 
-<img src="https://img.shields.io/static/v1?label=Bootstrap&message=framework&color=Orange&style=for-the-badge&logo=Bootstrap"/>
-<img src="https://img.shields.io/static/v1?label=JavaScript&message=framework&color=Orange&style=for-the-badge&logo=JavaScript"/>
+ <p align="justify"> <img src="https://img.shields.io/static/v1?label=Bootstrap&message=framework&color=Orange&style=for-the-badge&logo=Bootstrap"/>
+<img src="https://img.shields.io/static/v1?label=JavaScript&message=framework&color=Orange&style=for-the-badge&logo=JavaScript"/></p>
 
 <h1 align="justify"> Valéria Melo</h1>
 <h2 align="justify"> Desenvolvedora Web - Junior / Front-end e Back-end :computer: :computer:</h2>
