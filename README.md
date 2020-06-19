@@ -30,13 +30,12 @@
 
 ```bash
 
-  ❯ ⚠️ [Git](https://git-scm.com) 
-  
-  ❯ > <p> <b> Acesse já: </b>  <a href="https://github.com/val-bit"> ⚠️ Conta no GitHub</a>  :white_check_mark: </p>
-  
-  ❯ > <p> <b> Acesse já: </b>  <a href="https://code.visualstudio.com/"> ⚠️ Visual Studio Code </a>   </p>
-  
- 
+<a href="https://git-scm.com/"> ⚠️ Git</a>
+
+<a href="https://github.com/val-bit"> ⚠️ GitHub</a>
+
+<a href="https://code.visualstudio.com/"> ⚠️ Visual Studio Code </a>
+
 ```
 
 ----
