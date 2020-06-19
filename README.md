@@ -12,4 +12,4 @@
 <p align="justify"> Produzi uma página de apresentação pessoal com um template Bootstrap e o 
 coloquei essa página com a ferramenta Github Pages, aqui em meu perfil do Github. </p>
 
-Link: https://val-bit.github.io/#
+Link: https://val-bit.github.io/# :white_check_mark:
