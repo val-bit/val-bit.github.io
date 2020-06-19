@@ -10,6 +10,6 @@
 
 
 <p align="justify"> Produzi uma página de apresentação pessoal com um template Bootstrap. A página está disponivel na 
- Github Pages </p>
+  <u> - Github Pages </u>. </p>
 
 Link: https://val-bit.github.io/# :white_check_mark:
