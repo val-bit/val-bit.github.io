@@ -30,11 +30,11 @@
 
 
 
-<a href="https://git-scm.com/"> ⚠️ Git</a>
+<a href="https://git-scm.com/">  Git</a>
 
-<a href="https://github.com/val-bit"> ⚠️ GitHub</a>
+<a href="https://github.com/val-bit">  GitHub</a>
 
-<a href="https://code.visualstudio.com/"> ⚠️ Visual Studio Code </a>
+<a href="https://code.visualstudio.com/">  Visual Studio Code </a>
 
 ----
 
