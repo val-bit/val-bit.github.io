@@ -9,7 +9,7 @@
  
 
 
-<p align="justify"> Produzi uma página de apresentação pessoal com um template Bootstrap e o 
-coloquei essa página com a ferramenta Github Pages, aqui em meu perfil do Github. </p>
+<p align="justify"> Produzi uma página de apresentação pessoal com um template Bootstrap. A página está disponivel na 
+ Github Pages </p>
 
 Link: https://val-bit.github.io/# :white_check_mark:
