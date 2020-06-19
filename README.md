@@ -25,16 +25,16 @@
 > <p> <b> Acesse já: </b>  <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
 
 ----
-## :package: Pré Requisitos:
+## ▶️ Pré Requisitos:
 
 
 ```bash
 
-  ❯ <p><a href="https://git-scm.com/"> ⚠️ Git </a>  :white_check_mark: </p>
+  ❯ ⚠️ [Git](https://git-scm.com) 
   
-  ❯ <p><a href="https://github.com/val-bit"> ⚠️ Conta no GitHub</a>  :white_check_mark: </p>
+  ❯ > <p> <b> Acesse já: </b>  <a href="https://github.com/val-bit"> ⚠️ Conta no GitHub</a>  :white_check_mark: </p>
   
-  ❯ <p><a href="https://code.visualstudio.com/"> ⚠️ Visual Studio Code </a>  :white_check_mark: </p>
+  ❯ > <p> <b> Acesse já: </b>  <a href="https://code.visualstudio.com/"> ⚠️ Visual Studio Code </a>   </p>
   
  
 ```
