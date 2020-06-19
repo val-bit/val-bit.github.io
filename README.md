@@ -1,6 +1,6 @@
 <h1 align="justify"> Valéria Melo</h1>
 <h2 align="justify"> Desenvolvedora Web - Junior / Front-end e Back-end :computer: :computer:</h2>
-<h2 <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </h2>
+<p> <a href="https://val-bit.github.io/#"> Curriculo Online Git Pages - Valéria Melo </a>  :white_check_mark: </p>
 
 
 <h3 align="justify"> 🏠 ABC/SP</h3
